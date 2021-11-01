@@ -1,0 +1,8 @@
+{
+  "name": "Izlamify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ed87e9ad"
+}
